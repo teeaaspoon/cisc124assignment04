@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "junit5-jupiter-starter-maven",
+                "projectName": "junit5-jupiter-starter-maven",
+                "workingDirectory": "/Users/tommy/Desktop/Fourth Year/CISC 124 Java/Assignments/assignment04/junit5-jupiter-starter-maven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "junit5-jupiter-starter-maven",
+                "projectName": "junit5-jupiter-starter-maven",
+                "workingDirectory": "/Users/tommy/Desktop/Fourth Year/CISC 124 Java/Assignments/assignment04/junit5-jupiter-starter-maven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
