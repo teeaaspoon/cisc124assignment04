@@ -1,7 +1,7 @@
-# junit5-jupiter-starter-maven
+# Assignment 04 - A Hierachy of Fasteners
 
-The `junit5-jupiter-starter-maven` project demonstrates how to execute JUnit Jupiter
-tests using Maven.
+An assignment to test the understanding of heirachies and object oriented progrmaming in Java
 
-Please note that this project uses the [Maven Wrapper](https://github.com/takari/maven-wrapper).
-Thus, to ensure that the correct version of Maven is used, invoke `mvnw` instead of `mvn`.
+`mvn exec:java -Dexec.mainClass="com.example.FastenerOrderSystem"` to run the Ordering System file provided by professor
+
+Test files can be found in `src/test/java/com/example/project/TestHierachy`
